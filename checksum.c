@@ -9,4 +9,4 @@ int checksum(char *message)
         message++;
     }
     return c;
-}
+}  
